@@ -1,0 +1,314 @@
+body, .ud-main-content-wrapper, .main-content-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+body {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.6rem;
+    color: #1c1d1f;
+    margin: 0;
+}
+.ud-main-content-wrapper, .main-content-wrapper, .ud-main-content, .main-content {
+    flex: 1 0 auto;
+}
+.ud-header {
+    box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+    z-index: 1010;
+}
+.smart-bar--smart-bar--yellow--jXUJZ {
+    background: #eceb98;
+}
+.smart-bar--smart-bar--1rOkE {
+    color: #1c1d1f;
+    display: flex;
+    position: relative;
+    z-index: 1010;
+}
+.smart-bar--smart-bar__content_wrapper--Q3WRR {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.smart-bar--smart-bar__content--3X42a {
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    padding-left: 2.4rem;
+}
+.smart-bar--smart-bar--1rOkE .smart-bar--basic-bar-content--2jJSQ, .smart-bar--smart-bar--1rOkE .udlite-in-udheavy .smart-bar--basic-bar-content--2jJSQ {
+    font-size: 1.6rem;
+}
+.smart-bar--basic-bar-content--2jJSQ {
+    text-align: left;
+}
+.ud-text-sm, .udlite-text-sm {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.4rem;
+}
+.smart-bar--smart-bar__title--1LFsk {
+    margin-right: 0.4rem;
+}
+.ud-text-bold, .udlite-text-bold {
+    font-weight: 700;
+}
+.smart-bar--smart-bar--1rOkE .smart-bar--smart-bar__close--3mCup {
+    color: #1c1d1f;
+    margin: 0.8rem;
+}
+.ud-btn-icon-medium, .udlite-btn-icon-medium {
+    padding: 0 1rem;
+    width: 4rem;
+}
+.ud-btn-icon, .udlite-btn-icon {
+    min-width: auto;
+}
+.ud-btn-ghost, .udlite-btn-ghost, .ud-btn-ghost.ud-btn-disabled, .udlite-btn-ghost.udlite-btn-disabled, .ud-btn-link, .udlite-btn-link, .ud-btn-link.ud-btn-disabled, .udlite-btn-link.udlite-btn-disabled {
+    color: #5624d0;
+    background-color: transparent;
+    min-width: auto;
+    padding: 0;
+}
+.ud-btn-medium, .udlite-btn-medium {
+    height: 4rem;
+}
+.ud-btn, .udlite-btn {
+    position: relative;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 8rem;
+    padding: 0 1.2rem;
+    justify-content: center;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: bottom;
+    white-space: nowrap;
+}
+.ud-heading-sm, .udlite-heading-sm {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.4rem;
+}
+button, input {
+    background-image: none;
+}
+.smart-bar--smart-bar--1rOkE .smart-bar--smart-bar__close--3mCup {
+    color: #1c1d1f;
+    margin: 0.8rem;
+}
+.ud-btn-icon-medium, .udlite-btn-icon-medium {
+    padding: 0 1rem;
+    width: 4rem;
+}
+.ud-btn-medium, .udlite-btn-medium {
+    height: 4rem;
+}
+.ud-heading-sm, .udlite-heading-sm {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.4rem;
+}
+.header--flex-middle--2QeVR {
+    align-items: center;
+    display: flex;
+}
+.header--header--1SLKV {
+    background: #fff;
+    height: 7.2rem;
+    padding: 0 2.4rem;
+    position: relative;
+    z-index: 1010;
+}
+.skip-to-content-button--skip-to-content--3C3kc {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 1011;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.skip-to-content-button--skip-to-content-btn--3lm85 {
+    position: absolute;
+    max-height: 0;
+    overflow: hidden;
+}
+.ud-btn-primary, .udlite-btn-primary, .ud-btn-primary.ud-btn-disabled, .udlite-btn-primary.udlite-btn-disabled {
+    background-color: #1c1d1f;
+}
+.ud-btn-primary, .udlite-btn-primary, .ud-btn-black-solid, .udlite-btn-black-solid, .ud-btn-white-outline, .udlite-btn-white-outline, .ud-btn-brand, .udlite-btn-brand {
+    color: #fff;
+}
+.ud-btn-large, .udlite-btn-large {
+    height: 4.8rem;
+}
+.ud-heading-md, .udlite-heading-md {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.6rem;
+}
+.header--logo--rd7-H {
+    flex-shrink: 0;
+    padding-right: 0.8rem;
+}
+.header--flex-middle--2QeVR {
+    align-items: center;
+    display: flex;
+}
+a {
+    color: #5624d0;
+    text-decoration: none;
+}
+.popper--popper--2r2To {
+    position: relative;
+}
+.header--gap-button--1p5bX .js-header-button {
+    padding: 0 1.2rem;
+}
+.header--dropdown-button--ht4OS {
+    margin: 1.2rem 0;
+}
+.header--dropdown-button-text--2OxOV {
+    color: #1c1d1f;
+}
+.header--header--1SLKV .ud-search-form-autocomplete {
+    max-width: none;
+}
+.header--search-bar--1g81R {
+    flex-grow: 1;
+    height: 4.8rem;
+    border: 1px solid #1c1d1f;
+    border-radius: 9999px;
+    background-color: #f7f9fa;
+    margin: 0 1.2rem;
+}
+.ud-search-form-autocomplete {
+    position: relative;
+}
+.ud-form-group, .udlite-form-group {
+    min-width: 18rem;
+    max-width: 60rem;
+}
+.ud-btn-icon-large, .udlite-btn-icon-large {
+    padding: 0 1.2rem;
+    width: 4.8rem;
+}
+.ud-heading-md, .udlite-heading-md {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.6rem;
+}
+.ud-icon-color-neutral, .udlite-icon-color-neutral {
+    color: #1c1d1f;
+}
+.ud-icon-medium, .udlite-icon-medium {
+    width: 2.4rem;
+    height: 2.4rem;
+}
+.ud-icon, .udlite-icon {
+    fill: currentColor;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.header--gap-auth-button--vj50D {
+    margin-left: 0.8rem;
+}
+.ud-btn-secondary, .udlite-btn-secondary, .ud-btn-secondary.ud-btn-disabled, .udlite-btn-secondary.udlite-btn-disabled {
+    color: #1c1d1f;
+    background-color: transparent;
+    border: 1px solid #1c1d1f;
+}
+.main-content {
+    overflow-x: hidden;
+}
+.carousel-billboard--carousel-billboard-container--3ebkM.carousel-billboard--is-desktop--C8fR8 {
+    min-width: 60rem;
+}
+.carousel-billboard--carousel-billboard-container--3ebkM {
+    margin: 0 auto;
+    max-width: 134rem;
+    min-width: 32rem;
+}
+.carousel--container--WjDNA {
+    position: relative;
+}
+.carousel--scroll-lock--31wDL {
+    overflow-x: hidden;
+}
+.carousel--scroll-port--G8nlm {
+    scrollbar-width: none;
+    display: flex;
+    overflow: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-snap-stop: always;
+    touch-action: manipulation;
+    -webkit-overflow-scrolling: touch;
+}
+.carousel-billboard--carousel-billboard-container--3ebkM .carousel-billboard--carousel-item--cP_Bu {
+    min-width: 100%;
+}
+.carousel--scroll-item--1cqyU {
+    min-width: 0.1rem;
+    scroll-snap-align: start;
+}
+.billboard-banner--billboard--3GBV3 {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    margin-bottom: 2.4rem;
+}
+.billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--image-container--2LVH- {
+    margin-bottom: 0;
+}
+.billboard-banner--billboard--3GBV3 .billboard-banner--image-container--2LVH- {
+    margin-bottom: 1.6rem;
+}
+.billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--image-container--2LVH- img {
+    width: 100vw;
+    height: auto;
+    object-fit: contain;
+    object-position: initial;
+}
+.billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--search-bar-container--2c13r, .billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--content-box--2LhRB h1, .billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--content-box--2LhRB p, .billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--image-container--2LVH- img {
+    min-width: initial;
+}
+.billboard-banner--billboard--3GBV3 .billboard-banner--search-bar-container--2c13r, .billboard-banner--billboard--3GBV3 .billboard-banner--content-box--2LhRB h1, .billboard-banner--billboard--3GBV3 .billboard-banner--content-box--2LhRB p, .billboard-banner--billboard--3GBV3 .billboard-banner--image-container--2LVH- img {
+    min-width: 32rem;
+}
+.billboard-banner--billboard--3GBV3 .billboard-banner--image-container--2LVH- img {
+    object-fit: cover;
+    height: 25rem;
+    object-position: center;
+}
+.billboard-banner--billboard--3GBV3.billboard-banner--is-desktop--1A0jQ .billboard-banner--content-box--2LhRB {
+    position: absolute;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+    padding: 2.4rem;
+    width: 40rem;
+    left: 4.8rem;
+    top: 2.4rem;
+}
+.billboard-banner--billboard--3GBV3 .billboard-banner--content-box--2LhRB {
+    display: flex;
+    flex-direction: column;
+    box-shadow: none;
+    background: #fff;
+    width: 100vw;
+}
