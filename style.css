@@ -206,13 +206,6 @@ a {
     padding: 0 1.2rem;
     width: 4.8rem;
 }
-.ud-heading-md, .udlite-heading-md {
-    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
-    font-weight: 700;
-    line-height: 1.2;
-    letter-spacing: -.02rem;
-    font-size: 1.6rem;
-}
 .ud-icon-color-neutral, .udlite-icon-color-neutral {
     color: #1c1d1f;
 }
@@ -311,4 +304,351 @@ a {
     box-shadow: none;
     background: #fff;
     width: 100vw;
+}
+.ud-container, .udlite-container {
+    width: 100%;
+    max-width: 134rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2.4rem;
+    padding-left: 2.4rem;
+}
+.alternate-headline--title-no-margin--3uxnR {
+    margin: 0;
+    max-width: 100%;
+}
+.headline__main-text {
+    max-width: 80rem;
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 1.25;
+    letter-spacing: -.05rem;
+}
+.ud-heading-serif-xl, .udlite-heading-serif-xl {
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 1.35;
+    letter-spacing: -.02rem;
+}
+.alternate-headline--secondary-text-small-margin--2V6Td {
+    margin: 1.6rem 0 0;
+    max-width: 80rem;
+}
+.headline__sub-text {
+    margin-top: 0.8rem;
+    max-width: 80rem;
+}
+.ud-text-lg, .udlite-text-lg {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.9rem;
+}
+.tabs--tabs-container--PvhiR {
+    --tabs-scroll-left-bg: linear-gradient(to right, #fff 75%, rgba(255,255,255,0));
+    --tabs-scroll-right-bg: linear-gradient(to left, #fff 75%, rgba(255,255,255,0));
+    --tabs-scroll-right-bg-overflow: linear-gradient(to left, #fff, rgba(255,255,255,0));
+    --tabs-pagination-color: #5624d0;
+    --tabs-text-color-default: #1c1d1f;
+    --tabs-nav-color-default: #6a6f73;
+    --tabs-nav-color-active: #1c1d1f;
+    --tabs-nav-color-hover: #1c1d1f;
+    --tabs-container-border-bottom-active: 0.2rem solid #1c1d1f;
+    --tabs-box-shadow-color: #d1d7dc;
+}
+.tabs--tabs-nav-buttons--165dc {
+    box-shadow: inset 0 -1px 0 0 var(--tabs-box-shadow-color);
+    position: relative;
+}
+.carousel--grid--21hQz {
+    display: grid;
+    grid-auto-columns: max-content;
+    grid-auto-flow: column;
+    grid-gap: 1.6rem;
+}
+.skills-hub-unit--with-banner-wrapper--1r9bj .ud-nav-button-container {
+    border-bottom: none!important;
+}
+.tabs--nav-button-container--2gIlw.tabs--active--2zzvm {
+    border-bottom: var(--tabs-container-border-bottom-active);
+}
+.tabs--nav-button-container--2gIlw {
+    flex: 1 1 auto;
+}
+.tabs--nav-button-container--2gIlw .tabs--nav-button--3VgVI.tabs--active--2zzvm {
+    color: var(--tabs-nav-color-active);
+    cursor: default;
+}
+.tabs--nav-button-container--2gIlw .tabs--nav-button--3VgVI {
+    background: 0 0;
+    padding: 0.8rem 0.4rem;
+    outline-offset: -0.4rem!important;
+    color: var(--tabs-nav-color-default);
+    position: relative;
+    width: 100%;
+}
+.skills-hub-unit--with-banner-wrapper--1r9bj .ud-tab-content {
+    padding-top: 0!important;
+}
+.tabs--tab-content--MLK3S.tabs--active--2zzvm {
+    padding-top: 1.6rem;
+    max-width: none;
+    max-height: none;
+    overflow: visible;
+    visibility: visible;
+}
+.tabs--tab-content--MLK3S {
+    max-width: 0;
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    visibility: hidden;
+    cursor: auto;
+    padding: 0;
+    color: var(--tabs-text-color-default);
+}
+.component-margin+.component-margin, .discovery-unit-empty-render+.component-margin {
+    margin-top: 6.4rem;
+    /* margin-top: 4.8rem; */
+}
+.logged-out-home-page .browse-value-props, .lohp-trending-topics {
+    background: #f7f9fa;
+    border: 0;
+}
+.value-props--wrapper--2-saF {
+    padding: 2.4rem 0;
+    border-top: 1px solid #d1d7dc;
+    border-bottom: 1px solid #d1d7dc;
+}
+.ud-full-width-container {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+.value-props--title--1JOa_ {
+    /* display: none; */
+    margin-top: 0;
+    margin-bottom: 2.4rem;
+    text-align: center;
+}
+.value-props--props--3rEDV {
+    display: flex;
+    justify-content: space-between;
+}
+.value-props--prop--3sPME {
+    display: flex;
+}
+.value-props--props--small--1ibzJ .value-props--graphic--L3cnZ {
+    margin-right: 1.6rem;
+}
+.value-props--centered--2SuNb {
+    display: flex;
+    align-items: center;
+}
+.value-props--props--small--1ibzJ .value-props--body--B4Nqd {
+    max-width: 28.8rem;
+}
+.value-props--props--small--1ibzJ .value-props--icon--3vlA0 {
+    background: #d1d7dc;
+    height: 4rem;
+    width: 4rem;
+}
+.value-props--icon--3vlA0 {
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.unit-title--container--EH-Rf.unit-title--has-title--1g2aA {
+    margin-bottom: 1.6rem;
+}
+.unit-title--container--EH-Rf .unit-title--title-container--2f_ta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.unit-title--container--EH-Rf .unit-title--title--2TQwd {
+    max-width: 80rem;
+}
+.ud-heading-xl, .udlite-heading-xl {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 2.4rem;
+}
+.logged-out-home-page--trending-topics--3TrYN {
+    background: #f7f9fa;
+}
+.trending-topics--section--3P7Fy {
+    padding: 6.4rem 2.4rem;
+    /* padding: 3.2rem 2.4rem; */
+}
+.trending-topics--section-title--2bfDM {
+    margin-bottom: 2.4rem;
+}
+.partners-banner-container--partners-container--1SgOW {
+    padding: 3.2rem;
+}
+.partners-banner--align-center--17TA1 {
+    align-items: center;
+}
+.partners-banner--partners-wrapper--bHZ-F {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.partners-banner--partners-wrapper--bHZ-F p {
+    margin: 0.8rem 0 2.4rem;
+    max-width: none;
+}
+.ud-text-md, .udlite-text-md {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.6rem;
+}
+.partner-logos--logo-list--1GyY- {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    align-self: normal;
+    max-width: none;
+    padding-left: 0;
+    margin-top: 0;
+    list-style: none;
+}
+.partner-logos--logo-item--2-lfP {
+    justify-self: center;
+    padding-left: 0;
+    margin-top: 0;
+}
+.non-student-cta--non-student-cta-wrapper--2Nikm {
+    padding: 4rem 0;
+}
+.non-student-cta--non-student-cta-bg--1okkJ {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 32rem;
+}
+.non-student-cta--non-student-cta-wrapper-reversed--3JLTZ .non-student-cta--non-student-cta-content-wrapper--26uBA {
+    flex-direction: row-reverse;
+}
+.non-student-cta--non-student-cta-content-wrapper--26uBA {
+    display: flex;
+    padding: 0;
+    /* padding: 0 2.4rem; */
+}
+.non-student-cta--non-student-cta-image--7Y7Ul, .non-student-cta--non-student-cta-wrapper-reversed--3JLTZ .non-student-cta--non-student-cta--2quSb {
+    margin: 0 9.6rem 0 0;
+}
+.non-student-cta--non-student-cta-image--7Y7Ul {
+    display: block;
+    margin: 0 auto 2.4rem;
+}
+.non-student-cta--non-student-cta-image--7Y7Ul, .non-student-cta--non-student-cta-wrapper-reversed--3JLTZ .non-student-cta--non-student-cta--2quSb {
+    margin: 0 9.6rem 0 0;
+}
+.non-student-cta--non-student-cta--2quSb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 40rem;
+    text-align: left;
+    /* max-width: 60rem; */
+    margin: 0 auto;
+    /* text-align: center; */
+}
+.non-student-cta--non-student-cta__header--3xgVp {
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 1.25;
+    letter-spacing: -.05rem;
+    margin-bottom: 1.6rem;
+}
+.non-student-cta--non-student-cta__content--3D827 {
+    font-size: 1.9rem;
+    margin-bottom: 1.6rem;
+}
+.ud-unstyled-list, .unstyled-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-width: none;
+}
+.ud-block-list .ud-block-list-item-neutral, .udlite-block-list .ud-block-list-item-neutral, .ud-block-list .udlite-block-list-item-neutral, .udlite-block-list .udlite-block-list-item-neutral {
+    color: #1c1d1f;
+}
+.udlite-block-list .udlite-block-list-item-tight {
+    padding: 0.4rem 0;
+}
+.ud-block-list .ud-block-list-item-tight {
+    padding: 0.4rem 0;
+}
+.udlite-block-list .udlite-block-list-item {
+    padding: 0.8rem 0;
+}
+.ud-block-list .ud-block-list-item {
+    padding: 0.8rem 0;
+}
+.ud-block-list .ud-block-list-item, .udlite-block-list .udlite-block-list-item {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    letter-spacing: normal;
+    white-space: normal;
+}
+.item-large .ud-block-list-item-icon, .ud-block-list-item-large .ud-block-list-item-content {
+    min-height: 2.24rem;
+}
+.ud-block-list-item-content, .udlite-block-list-item-content {
+    flex: 1;
+    min-width: 1px;
+}
+.non-student-cta--ctas-container--1alXW {
+    justify-content: left;
+    flex-direction: row;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+}
+.non-student-cta--ctas-container--1alXW>*:not(:last-child) {
+    margin: 0 0.8rem 0 0;
+}
+.non-student-cta--non-student-cta__link--1Ujpk {
+    width: unset;
+    /* width: 100%; */
+}
+.non-student-cta--ctas-container--1alXW>* {
+    margin: 0 0 0.8rem;
+}
+
+
+/* img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+} */
+/* li {
+    padding-left: 0.8rem;
+} */
+p, h1, h2, h3, h4, h5, h6, ul, ol {
+    font-size: inherit;
+    font-weight: 400;
+    max-width: 60rem;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
